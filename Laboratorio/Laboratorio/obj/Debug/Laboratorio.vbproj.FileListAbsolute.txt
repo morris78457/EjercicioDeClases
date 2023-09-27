@@ -1,4 +1,0 @@
-C:\Users\Mauri\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.vbproj.AssemblyReference.cache
-C:\Users\Mauri\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Resources.resources
-C:\Users\Mauri\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.vbproj.GenerateResource.cache
-C:\Users\Mauri\source\repos\Laboratorio\Laboratorio\obj\Debug\Laboratorio.vbproj.CoreCompileInputs.cache
